@@ -12,10 +12,10 @@
 - 🌱 I’m currently working on the frontend at [U-shop](https://u-shop.herokuapp.com/)🔖 (Please open in mobile, not fully responisve to different screen sizes)  
   
 
-- ❓ Ask me about anything related to what happened in Tianamen Square in 1988🤫  
+- ❓ Ask me about anything related to Cyberpunk media🤫  
   
 
-- ⚡ Fun fact: I am become death, the destroyer of worlds.  
+- ⚡ Fun fact: I have no enemies.  
   
 
 <br/>  
