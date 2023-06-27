@@ -9,7 +9,7 @@
 - 🔭 I’m currently working as a freelancer.🐛  
   
 
-- 🌱 I’m currently working on the frontend at [U-shop](https://u-shop.herokuapp.com/)🔖 (Please open in mobile, not fully responisve to different screen sizes)  
+- 🌱 I’m currently working as a Teacher's Assistant at Le Wagon's Web Development bootcamp.
   
 
 - ❓ Ask me about anything related to Cyberpunk media🤫  
